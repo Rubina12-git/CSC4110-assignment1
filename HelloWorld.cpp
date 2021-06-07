@@ -10,7 +10,7 @@ int main()
 { 
      // Author: Rubina Akther <ga6899@wayne.edu>
     // prints hello world 
-    cout<<"Hello World!"; 
+    cout<<"Testing git merge!"; 
       
     return 0; 
 } 
