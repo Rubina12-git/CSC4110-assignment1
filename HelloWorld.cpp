@@ -8,6 +8,7 @@ using namespace std;
 // where the execution of program begins 
 int main() 
 { 
+     // Author: Rubina Akther <ga6899@wayne.edu>
     // prints hello world 
     cout<<"Testing git merge!"; 
       
